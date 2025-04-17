@@ -13,8 +13,9 @@ Welcome to my GitHub! I'm currently diving deep into the world of web developmen
 
 ---
 ### 🛠️ Tools & Technologies
+<a href="#">
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,figma,postman,npm,netlify,markdown"/></p>
-
+</a>
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,7 +50,7 @@ Welcome to my GitHub! I'm currently diving deep into the world of web developmen
 ---
 ### 📊 GitHub Stats
 <div align="center">
-<a href="https://github.com/SA-AIMAN65">
+<a href="#">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SA-AIMAN65&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=320" width="420" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SA-AIMAN65&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=320" width="350" alt="Most Used Languages" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SA-AIMAN65&theme=radical&hide_border=true" width="440" alt="GitHub Streak" />
@@ -75,6 +76,6 @@ Welcome to my GitHub! I'm currently diving deep into the world of web developmen
 
 ---
 
-💻 **"`Code. Learn. Build. Repeat.`"** 💪
+💻 **`Code. Learn. Build. Repeat.`** 💪
 
 ---
